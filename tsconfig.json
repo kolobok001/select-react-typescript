@@ -1,0 +1,32 @@
+﻿{
+	"compilerOptions": {
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true,
+		"experimentalDecorators": true,
+		"jsx": "react",
+		"outDir": "./build/tsout",
+		"noImplicitAny": true,
+		"noEmitOnError": true,
+		"skipLibCheck": true,
+		"removeComments": true,
+		"sourceMap": true,
+		"target": "ESNext",
+		"module": "ESNext",
+		"moduleResolution": "node",
+		"strict": true,
+		"watch": false,
+		"pretty": true,
+		"lib": [
+			"dom",
+			"es5",
+			"scripthost",
+			"es2015.promise",
+			"es2015"
+		]
+	},
+	"compileOnSave": false,
+	"include": ["**/*"],
+	"exclude": [
+		"node_modules"
+	]
+}
