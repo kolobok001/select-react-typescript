@@ -1,12 +1,12 @@
 {
-  "name": "react-select",
+  "name": "react-select-typescript",
   "version": "1.0.0",
   "description": "React select component",
   "main": "src/index.tsx",
   "style": "style/style.css",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fraserxu/react-dropdown.git"
+    "url": "https://github.com/kolobok001/select-react-typescript"
   },
   "files": [
     "build/bundle.js",
